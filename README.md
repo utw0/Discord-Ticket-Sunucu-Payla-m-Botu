@@ -9,7 +9,7 @@ Destek taleplerini yönetmek ve sunucu paylaşımını otomatikleştirmek için 
 - MongoDB ile kalıcı veri: GuildConfig, Ticket, SharePost modelleri.
 - discord.js v14 ile modern etkileşimler.
 
-### Görüntüler
+## Görüntüler
 <details>
   <summary>Komutlar</summary>
 
@@ -24,6 +24,7 @@ Destek taleplerini yönetmek ve sunucu paylaşımını otomatikleştirmek için 
 | GÖRSEL | <img width="492" height="351" alt="image" src="https://github.com/user-attachments/assets/645b8254-5019-4b5a-8f0e-e5381c35033d" />
 | GÖRSEL | <img width="533" height="301" alt="image" src="https://github.com/user-attachments/assets/30442388-d85b-4031-b6a3-ec5a1834f386" />
 | GÖRSEL | <img width="595" height="556" alt="image" src="https://github.com/user-attachments/assets/ae9c9563-a6fb-404b-aaeb-0a1101629d15" />
+| GÖRSEL | <img width="497" height="510" alt="image" src="https://github.com/user-attachments/assets/c39bef44-d154-4d4b-8c8f-e81ac2c96877" />
 
 |
 </details>
